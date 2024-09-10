@@ -4,15 +4,15 @@
 
 1. Pythonn
 
-![Python Installation](/init-is310-homework/images/proofofGitpng.png)
+![Python Installation](/init-is310-homework/images/proofofPython.png)
 
 2. Git
 
-![Git Installation](/Users/chrlsh/Desktop/proofofGitpng)
+![Git Installation](/init-is310-homework/images/proofofGit.png)
 
 3. VS Code
 
-![VS Code Installation](/Users/chrlsh/Desktop/proofofVSCODE.png)
+![VS Code Installation](/init-is310-homework/images/proofofVSCODE.png)
 
 Discord: ch57
 Hypothes.is: CHavyarimana
