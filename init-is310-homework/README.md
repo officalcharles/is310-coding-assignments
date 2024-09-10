@@ -4,7 +4,8 @@
 
 1. Pythonn
 
-![Python Installation](/Users/chrlsh/Desktop/proofofGitpng.png)
+![Python Installation](/init-is310-homework/images
+/proofofGitpng.png)
 
 2. Git
 
