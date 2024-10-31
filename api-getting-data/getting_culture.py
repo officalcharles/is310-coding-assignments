@@ -1,8 +1,14 @@
 import requests
 import json
 import os
-def get_useless_fact():
-    url = "https://uselessfacts.jsph.pl/random.json?language=en"
+from dotenv import load_dotenv
+
+load_dotenv("key.env")
+
+def getMovie(movie):
+    movie_api_key = os.getenv("OMDBAPI_API_KEY")
+    print(movie, movie_api_key)
+    url = f"https://omdbapi.com/?apikey={movie_api_key}&t={movie}"
     response = requests.get(url)
     if response.status_code == 200:
         fact_data = response.json()
@@ -11,16 +17,38 @@ def get_useless_fact():
     else:
         print("Could not get api")
         return None
+
+def europeana_query(query):
+    euro_api_key = os.getenv("EUROPEANA_API_KEY")
+    url = "https://api.europeana.eu/record/v2/search.json"
+    params = {
+        'wskey': euro_api_key,
+        'query': query,
+        'media': 'true',
+        'profile': 'rich',
+        'rows': 6
+    }
+    response = requests.get(url, params=params)
+    if response.status_code == 200:
+        data = response.json()
+        return data.get("items", [])
+    else:
+        print(f"Europeana API error code: {response.status_code}")
+        return []
 def main():
-    fact_data = get_useless_fact()
-    if not fact_data:
+    movie = input("Provide a movie name")
+    movie_data = getMovie(movie)
+    euro_data = europeana_query(movie)
+    if not movie_data:
         return
 
     data_to_save = {
-        "useless_fact": fact_data["text"]
+        "movie data": movie_data,
+        "euro data": euro_data
+
     }
 
-    filename = f"useless_facts_and_europeana_data.json"
+    filename = f"MovieData_Europeana.json"
     with open(filename, 'w') as file:
         json.dump(data_to_save, file, indent=4)
     print(f"Data saved to {filename}")
