@@ -1,0 +1,1601 @@
+{
+    "movie data": {
+        "Title": "The Hobbit",
+        "Year": "1977",
+        "Rated": "TV-PG",
+        "Released": "27 Nov 1977",
+        "Runtime": "90 min",
+        "Genre": "Animation, Adventure, Family",
+        "Director": "Jules Bass, Arthur Rankin Jr.",
+        "Writer": "J.R.R. Tolkien, Romeo Muller",
+        "Actors": "Orson Bean, John Huston, Theodore Gottlieb",
+        "Plot": "A homebody hobbit in Middle Earth gets talked into joining a quest with a group of dwarves to recover their treasure from a dragon.",
+        "Language": "English",
+        "Country": "United States, Japan",
+        "Awards": "1 win & 2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTJhODI1YjMtYjc0Ni00YTcyLTgxNjYtMzYzNDllZWI1ZTI0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "71%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.7",
+        "imdbVotes": "16,736",
+        "imdbID": "tt0077687",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    "euro data": [
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "TV3 Catalan Television"
+            ],
+            "dcDescription": [
+                "Low, hairy and pointed ears. It is the hobbits, one of the imaginary races of the \u2018Lord of the Rings\\\u2019 that now reach the cinema. \u2018The Hobbit: an unexpected journey\\\u2019 will be released in 3D within a year, but we can already teach you the first images."
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Low, hairy and pointed ears. It is the hobbits, one of the imaginary races of the \u2018Lord of the Rings\\\u2019 that now reach the cinema. \u2018The Hobbit: an unexpected journey\\\u2019 will be released in 3D within a year, but we can already teach you the first images."
+                ]
+            },
+            "dcLanguage": [
+                "Catalan;\u00a0Valencian"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "Catalan;\u00a0Valencian"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Info K"
+                ],
+                "en": [
+                    "Info K: Arrives\\ \u2018The Hobbit\\\u2019"
+                ]
+            },
+            "dcTypeLangAware": {
+                "def": [
+                    "V\u00eddeo ; Emissi\u00f3 televisi\u00f3 ; Actualitat ; Infantil"
+                ]
+            },
+            "edmDatasetName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "edmIsShownAt": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3869870/"
+            ],
+            "edmIsShownBy": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/3869870/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F4%2F4%2F1324494121344.jpg&type=VIDEO"
+            ],
+            "edmTimespan": [
+                "#2011",
+                "#2011-12-21"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2011"
+                },
+                {
+                    "def": "2011-12-21"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "2011",
+                    "2011-12-21"
+                ]
+            },
+            "europeanaCollectionName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_3869870?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/2051922/data_euscreenXL_3869870",
+            "index": 0,
+            "language": [
+                "ca"
+            ],
+            "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_3869870.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004516145",
+                "http://data.europeana.eu/organization/1482250000004671121"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "EUscreen"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 103.94232,
+            "timestamp": 1688647766909,
+            "timestamp_created": "2015-12-11T08:23:41.523Z",
+            "timestamp_created_epoch": 1449822221523,
+            "timestamp_update": "2021-12-03T08:36:11.538Z",
+            "timestamp_update_epoch": 1638520571538,
+            "title": [
+                "Info K",
+                "Info K: Arrives\\ \u2018The Hobbit\\\u2019"
+            ],
+            "type": "VIDEO",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2011"
+            ]
+        },
+        {
+            "completeness": 8,
+            "country": [
+                "Poland"
+            ],
+            "dataProvider": [
+                "Pomeranian Digital Library"
+            ],
+            "dcContributor": [
+                "Grancowski, Marek. Recytator",
+                "Grancowski, Marek. Re\u017c. nagr.",
+                "\u017bmudzi\u0144ska, Aleksandra. Recytator",
+                "Grancowski, Marek. Recitator",
+                "Grancowski, Marek. Regime nagr.",
+                "\u017bmudzi\u0144ska, Aleksandra. Recitator"
+            ],
+            "dcContributorLangAware": {
+                "en": [
+                    "Grancowski, Marek. Recitator",
+                    "Grancowski, Marek. Regime nagr.",
+                    "\u017bmudzi\u0144ska, Aleksandra. Recitator"
+                ],
+                "pl": [
+                    "Grancowski, Marek. Recytator",
+                    "Grancowski, Marek. Re\u017c. nagr.",
+                    "\u017bmudzi\u0144ska, Aleksandra. Recytator"
+                ]
+            },
+            "dcCreator": [
+                "Tolkien, J. R. R.",
+                "Tolkien, J. R. R. R."
+            ],
+            "dcCreatorLangAware": {
+                "en": [
+                    "Tolkien, J. R. R. R."
+                ],
+                "pl": [
+                    "Tolkien, J. R. R."
+                ]
+            },
+            "dcDescription": [
+                "15 min, format mp3, 128 kbit/s",
+                "S\u0142uchowisko na podstawie opowiadania J.R.R.Tolkiena",
+                "Listening based on the story of J.R.Tolkien"
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Listening based on the story of J.R.Tolkien"
+                ],
+                "pl": [
+                    "15 min, format mp3, 128 kbit/s",
+                    "S\u0142uchowisko na podstawie opowiadania J.R.R.Tolkiena"
+                ]
+            },
+            "dcLanguage": [
+                "pl"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "pl"
+                ]
+            },
+            "dcSubjectLangAware": {
+                "en": [
+                    "radio programs"
+                ],
+                "pl": [
+                    "audycje radiowe"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Hobbit, back and forth [sound documentary]"
+                ],
+                "pl": [
+                    "Hobbit, czyli tam i z powrotem [dokument d\u017awi\u0119kowy]"
+                ]
+            },
+            "dcTypeLangAware": {
+                "en": [
+                    "sound document"
+                ],
+                "pl": [
+                    "dokument d\u017awi\u0119kowy",
+                    "dokument d\u017awi\u0119kowy"
+                ]
+            },
+            "edmDatasetName": [
+                "0940417_Ag_PL_pbc.gda.pl"
+            ],
+            "edmIsShownAt": [
+                "http://fbc.pionier.net.pl/id/oai:pbc.gda.pl:20559"
+            ],
+            "edmIsShownBy": [
+                "http://pbc.gda.pl/Content/20559/03.mp3"
+            ],
+            "edmPlace": [
+                "#locationOf:nnbqsf5_FBC"
+            ],
+            "edmPlaceLabel": [
+                {
+                    "def": "Biblioteka G\u0142\u00f3wna Politechniki Gda\u0144skiej"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "pl": [
+                    "Biblioteka G\u0142\u00f3wna Politechniki Gda\u0144skiej"
+                ]
+            },
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fpbc.gda.pl%2FContent%2F20559%2F03.mp3&type=SOUND"
+            ],
+            "edmTimespan": [
+                "http://semium.org/time/AD2xxx",
+                "#1983",
+                "http://semium.org/time/19xx_4_quarter"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "4 quarter of the 20th century"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "4e quart 20e si\u00e8cle"
+                },
+                {
+                    "def": "1983"
+                },
+                {
+                    "def": "4-\u044f \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u044c 20-\u0433\u043e \u0432\u0435\u043a\u0430"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "ru": [
+                    "4-\u044f \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u044c 20-\u0433\u043e \u0432\u0435\u043a\u0430"
+                ],
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000",
+                    "4 quarter of the 20th century"
+                ],
+                "zxx": [
+                    "1983"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C.",
+                    "4e quart 20e si\u00e8cle"
+                ]
+            },
+            "europeanaCollectionName": [
+                "0940417_Ag_PL_pbc.gda.pl"
+            ],
+            "europeanaCompleteness": 8,
+            "guid": "https://www.europeana.eu/item/0940417/_nnbqsf5?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/0940417/_nnbqsf5",
+            "index": 0,
+            "language": [
+                "pl"
+            ],
+            "link": "https://api.europeana.eu/record/0940417/_nnbqsf5.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004513232",
+                "http://data.europeana.eu/organization/1482250000004671122"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "Digital Libraries Federation"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 100.7992,
+            "timestamp": 1688671474405,
+            "timestamp_created": "2017-11-30T08:48:38.138Z",
+            "timestamp_created_epoch": 1512031718138,
+            "timestamp_update": "2017-11-30T08:48:38.138Z",
+            "timestamp_update_epoch": 1512031718138,
+            "title": [
+                "Hobbit, czyli tam i z powrotem [dokument d\u017awi\u0119kowy]",
+                "Hobbit, back and forth [sound documentary]"
+            ],
+            "type": "SOUND",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "1983"
+            ]
+        },
+        {
+            "completeness": 0,
+            "country": [
+                "Sweden"
+            ],
+            "dataProvider": [
+                "Uppsala University"
+            ],
+            "dcContributor": [
+                "Jakobsson Mattias",
+                "Berg Mari-Ann",
+                "H\u00f6gskolan i J\u00f6nk\u00f6ping H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation",
+                "Jakobsson Mattias",
+                "Berg Mari-Ann",
+                "H\u00f6gskolan i J\u00f6nk\u00f6ping H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation",
+                "Jakobsson Mattias",
+                "Berg Mari-Ann",
+                "The College in J\u00f6nk\u00f6ping The College of Learning and Communication"
+            ],
+            "dcContributorLangAware": {
+                "sv": [
+                    "Jakobsson Mattias",
+                    "Berg Mari-Ann",
+                    "H\u00f6gskolan i J\u00f6nk\u00f6ping H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation"
+                ],
+                "def": [
+                    "Jakobsson Mattias",
+                    "Berg Mari-Ann",
+                    "H\u00f6gskolan i J\u00f6nk\u00f6ping H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation"
+                ],
+                "en": [
+                    "Jakobsson Mattias",
+                    "Berg Mari-Ann",
+                    "The College in J\u00f6nk\u00f6ping The College of Learning and Communication"
+                ]
+            },
+            "dcCreator": [
+                "Lundqvist Ann-Louise , H\u00f6gskolan i J\u00f6nk\u00f6ping, H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation",
+                "Lundqvist Ann-Louise , H\u00f6gskolan i J\u00f6nk\u00f6ping, H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation",
+                "Lundqvist Ann-Louise, University of J\u00f6nk\u00f6ping, College of Learning and Communication"
+            ],
+            "dcCreatorLangAware": {
+                "sv": [
+                    "Lundqvist Ann-Louise , H\u00f6gskolan i J\u00f6nk\u00f6ping, H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation"
+                ],
+                "def": [
+                    "Lundqvist Ann-Louise , H\u00f6gskolan i J\u00f6nk\u00f6ping, H\u00f6gskolan f\u00f6r l\u00e4rande och kommunikation"
+                ],
+                "en": [
+                    "Lundqvist Ann-Louise, University of J\u00f6nk\u00f6ping, College of Learning and Communication"
+                ]
+            },
+            "dcDescription": [
+                "<p>The purpose of this essay is to analyze Tolkien\u2019s work The Hobbit since this has not been done to the same extent as the Lord of the Rings. The aim of this essay is see if the hobbit Bilbo is a hero and if so in what way. The questions I aim to answer in this essay are:</p><p>\u2022 Why does the main character leave his home?</p><p>\u2022 What creatures does the hero encounter on his journey and how does he defeat these?</p><p>\u2022 In what ways is Bilbo a hero?</p><p>\u2022 How does Tolkien narrate The Hobbit?</p><p>To answer these questions I have used Jung\u2019s archetype theory which is useful when comparing different works and looking for similarities. I have partly used the approach of psychoanalysis as well, where knowledge of the author is important when interpreting the work.</p><p>The reason the main character, Bilbo, leaves his home is part curiosity and part that he is forced by others to go. On his journey he encounters many different creatures including trolls, goblins, the creature Gollum, spiders, wood-elves and the dragon Smaug. Bilbo uses his wits and bravery to survive the different creatures he meets. Bilbo is a hero in that, even though he may not have what is usually characteristic for a hero, he tries his best and many times acts first and thinks later to save his friends. Through the encounters in the world, the main character Bilbo develops into a hero. The author mostly uses the view of a third-person narrative, but sometimes intrudes and turns directly to the reader. The work shares narrative features with how oral narratives are told, and the narrator is omniscient. In his work, you can trace older stories and traditions which the author was very familiar with.</p>",
+                "Sj\u00e4lvst\u00e4ndigt arbete p\u00e5 grundniv\u00e5 (kandidatexamen)",
+                "10 po\u00e4ng / 15 hp",
+                "Sj\u00e4lvst\u00e4ndigt arbete p\u00e5 grundniv\u00e5 (kandidatexamen)",
+                "10 po\u00e4ng / 15 hp",
+                "<p>The purpose of this essay is to analyze Tolkien\u2019s work The Hobbit since this has not been done to the same extent as the Lord of the Rings. The aim of this essay is see if the hobbit Bilbo is a hero and if so in what way. The questions I aim to answer in this essay are:</p><p>\u2022 Why does the main character leave his home?</p><p>\u2022 What creatures does the hero encounter on his journey and how does he defeat these?</p><p>\u2022 In what ways is Bilbo a hero?</p><p>\u2022 How does Tolkien narrate The Hobbit?</p><p>To answer these questions I have used Jung\u2019s archetype theory which is useful when comparing different works and looking for similarities. I have partly used the approach of psychoanalysis as well, where knowledge of the author is important when interpreting the work.</p><p>The reason the main character, Bilbo, leaves his home is part curiosity and part that he is forced by others to go. On his journey he encounters many different creatures including trolls, goblins, the creature Gollum, spiders, wood-elves and the dragon Smaug. Bilbo uses his wits and bravery to survive the different creatures he meets. Bilbo is a hero in that, even though he may not have what is usually characteristic for a hero, he tries his best and many times acts first and thinks later to save his friends. Through the encounters in the world, the main character Bilbo develops into a hero. The author mostly uses the view of a third-person narrative, but sometimes intrudes and turns directly to the reader. The work shares narrative features with how oral narratives are told, and the narrator is omniscient. In his work, you can trace older stories and traditions which the author was very familiar with.</p>"
+            ],
+            "dcDescriptionLangAware": {
+                "sv": [
+                    "Sj\u00e4lvst\u00e4ndigt arbete p\u00e5 grundniv\u00e5 (kandidatexamen)",
+                    "10 po\u00e4ng / 15 hp"
+                ],
+                "def": [
+                    "<p>The purpose of this essay is to analyze Tolkien\u2019s work The Hobbit since this has not been done to the same extent as the Lord of the Rings. The aim of this essay is see if the hobbit Bilbo is a hero and if so in what way. The questions I aim to answer in this essay are:</p><p>\u2022 Why does the main character leave his home?</p><p>\u2022 What creatures does the hero encounter on his journey and how does he defeat these?</p><p>\u2022 In what ways is Bilbo a hero?</p><p>\u2022 How does Tolkien narrate The Hobbit?</p><p>To answer these questions I have used Jung\u2019s archetype theory which is useful when comparing different works and looking for similarities. I have partly used the approach of psychoanalysis as well, where knowledge of the author is important when interpreting the work.</p><p>The reason the main character, Bilbo, leaves his home is part curiosity and part that he is forced by others to go. On his journey he encounters many different creatures including trolls, goblins, the creature Gollum, spiders, wood-elves and the dragon Smaug. Bilbo uses his wits and bravery to survive the different creatures he meets. Bilbo is a hero in that, even though he may not have what is usually characteristic for a hero, he tries his best and many times acts first and thinks later to save his friends. Through the encounters in the world, the main character Bilbo develops into a hero. The author mostly uses the view of a third-person narrative, but sometimes intrudes and turns directly to the reader. The work shares narrative features with how oral narratives are told, and the narrator is omniscient. In his work, you can trace older stories and traditions which the author was very familiar with.</p>",
+                    "Sj\u00e4lvst\u00e4ndigt arbete p\u00e5 grundniv\u00e5 (kandidatexamen)",
+                    "10 po\u00e4ng / 15 hp"
+                ],
+                "en": [
+                    "<p>The purpose of this essay is to analyze Tolkien\u2019s work The Hobbit since this has not been done to the same extent as the Lord of the Rings. The aim of this essay is see if the hobbit Bilbo is a hero and if so in what way. The questions I aim to answer in this essay are:</p><p>\u2022 Why does the main character leave his home?</p><p>\u2022 What creatures does the hero encounter on his journey and how does he defeat these?</p><p>\u2022 In what ways is Bilbo a hero?</p><p>\u2022 How does Tolkien narrate The Hobbit?</p><p>To answer these questions I have used Jung\u2019s archetype theory which is useful when comparing different works and looking for similarities. I have partly used the approach of psychoanalysis as well, where knowledge of the author is important when interpreting the work.</p><p>The reason the main character, Bilbo, leaves his home is part curiosity and part that he is forced by others to go. On his journey he encounters many different creatures including trolls, goblins, the creature Gollum, spiders, wood-elves and the dragon Smaug. Bilbo uses his wits and bravery to survive the different creatures he meets. Bilbo is a hero in that, even though he may not have what is usually characteristic for a hero, he tries his best and many times acts first and thinks later to save his friends. Through the encounters in the world, the main character Bilbo develops into a hero. The author mostly uses the view of a third-person narrative, but sometimes intrudes and turns directly to the reader. The work shares narrative features with how oral narratives are told, and the narrator is omniscient. In his work, you can trace older stories and traditions which the author was very familiar with.</p>"
+                ]
+            },
+            "dcLanguage": [
+                "en"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "en"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "There and Back Again the Hobbit Bilbo as a Hero"
+                ]
+            },
+            "dcTypeLangAware": {
+                "no": [
+                    "Oppgave"
+                ],
+                "sv": [
+                    "Studentuppsats",
+                    "studentThesis",
+                    "text",
+                    "Subject/course"
+                ],
+                "def": [
+                    "studentThesis",
+                    "text",
+                    "Subject/course",
+                    "Subject/course",
+                    "http://data.europeana.eu/concept/6"
+                ],
+                "en": [
+                    "Student thesis",
+                    "book"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/6"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Buch"
+                },
+                {
+                    "def": "\u041a\u043d\u0438\u0433\u0430"
+                },
+                {
+                    "def": "Kirja"
+                },
+                {
+                    "def": "Livro"
+                },
+                {
+                    "def": "\u041a\u043d\u0438\u0433\u0430"
+                },
+                {
+                    "def": "Knyga"
+                },
+                {
+                    "def": "Gr\u0101mata"
+                },
+                {
+                    "def": "Knjiga"
+                },
+                {
+                    "def": "Livre"
+                },
+                {
+                    "def": "K\u00f6nyv"
+                },
+                {
+                    "def": "Kniha"
+                },
+                {
+                    "def": "Knjiga"
+                },
+                {
+                    "def": "Leabhar"
+                },
+                {
+                    "def": "Llibre"
+                },
+                {
+                    "def": "Bok"
+                },
+                {
+                    "def": "Ktieb"
+                },
+                {
+                    "def": "\u0392\u03b9\u03b2\u03bb\u03af\u03bf"
+                },
+                {
+                    "def": "Book"
+                },
+                {
+                    "def": "Libro"
+                },
+                {
+                    "def": "Libro"
+                },
+                {
+                    "def": "Raamat"
+                },
+                {
+                    "def": "Liburu"
+                },
+                {
+                    "def": "Kniha"
+                },
+                {
+                    "def": "Ksi\u0105\u017cka"
+                },
+                {
+                    "def": "Carte"
+                },
+                {
+                    "def": "Bog"
+                },
+                {
+                    "def": "Boek"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Buch"
+                ],
+                "ru": [
+                    "\u041a\u043d\u0438\u0433\u0430"
+                ],
+                "fi": [
+                    "Kirja"
+                ],
+                "pt": [
+                    "Livro"
+                ],
+                "bg": [
+                    "\u041a\u043d\u0438\u0433\u0430"
+                ],
+                "lt": [
+                    "Knyga"
+                ],
+                "lv": [
+                    "Gr\u0101mata"
+                ],
+                "hr": [
+                    "Knjiga"
+                ],
+                "fr": [
+                    "Livre"
+                ],
+                "hu": [
+                    "K\u00f6nyv"
+                ],
+                "sk": [
+                    "Kniha"
+                ],
+                "sl": [
+                    "Knjiga"
+                ],
+                "ga": [
+                    "Leabhar"
+                ],
+                "ca": [
+                    "Llibre"
+                ],
+                "sv": [
+                    "Bok"
+                ],
+                "mt": [
+                    "Ktieb"
+                ],
+                "el": [
+                    "\u0392\u03b9\u03b2\u03bb\u03af\u03bf"
+                ],
+                "en": [
+                    "Book"
+                ],
+                "it": [
+                    "Libro"
+                ],
+                "es": [
+                    "Libro"
+                ],
+                "et": [
+                    "Raamat"
+                ],
+                "eu": [
+                    "Liburu"
+                ],
+                "cs": [
+                    "Kniha"
+                ],
+                "pl": [
+                    "Ksi\u0105\u017cka"
+                ],
+                "ro": [
+                    "Carte"
+                ],
+                "da": [
+                    "Bog"
+                ],
+                "nl": [
+                    "Boek"
+                ]
+            },
+            "edmDatasetName": [
+                "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+            ],
+            "edmIsShownAt": [
+                "http://urn.kb.se/resolve?urn=urn:nbn:se:hj:diva-900"
+            ],
+            "edmIsShownBy": [
+                "http://hj.diva-portal.org/smash/get/diva2:4652/FULLTEXT01"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fhj.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A4652%2FFULLTEXT01&type=TEXT"
+            ],
+            "edmTimespan": [
+                "http://semium.org/time/AD2xxx",
+                "http://semium.org/time/Time",
+                "#2007",
+                "http://semium.org/time/ChronologicalPeriod",
+                "#2007-07-05"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "Time"
+                },
+                {
+                    "def": "Chronological period"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "2007"
+                },
+                {
+                    "def": "2007-07-05"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000",
+                    "Time",
+                    "Chronological period"
+                ],
+                "zxx": [
+                    "2007",
+                    "2007-07-05"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C."
+                ]
+            },
+            "europeanaCollectionName": [
+                "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+            ],
+            "europeanaCompleteness": 0,
+            "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085950993?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/9200111/BibliographicResource_1000085950993",
+            "index": 0,
+            "language": [
+                "sv"
+            ],
+            "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085950993.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004517448",
+                "http://data.europeana.eu/organization/1482250000004516062"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "The European Library"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 98.62197,
+            "timestamp": 1688651612176,
+            "timestamp_created": "2014-09-07T10:26:32.266Z",
+            "timestamp_created_epoch": 1410085592266,
+            "timestamp_update": "2014-09-07T10:26:32.266Z",
+            "timestamp_update_epoch": 1410085592266,
+            "title": [
+                "There and Back Again the Hobbit Bilbo as a Hero"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2007"
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "TV3 Catalan Television"
+            ],
+            "dcDescription": [
+                "New Zealand director Peter Jackson has dedicated fifteen years to the characters created by J. R. R. Tolkien, because he has directed the trilogy of\\ \u2018The Lord of the Rings\u2019 and then the trilogy of\\ \u2018The Hobbit\\\u2019 which now culminates in a spectacular final battle."
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "New Zealand director Peter Jackson has dedicated fifteen years to the characters created by J. R. R. Tolkien, because he has directed the trilogy of\\ \u2018The Lord of the Rings\u2019 and then the trilogy of\\ \u2018The Hobbit\\\u2019 which now culminates in a spectacular final battle."
+                ]
+            },
+            "dcLanguage": [
+                "Catalan;\u00a0Valencian"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "Catalan;\u00a0Valencian"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Not\u00edcies 3/24"
+                ],
+                "en": [
+                    "The latest instalment of\\ \u2018The Hobbit\\\u2019 opens today"
+                ]
+            },
+            "dcTypeLangAware": {
+                "def": [
+                    "V\u00eddeo ; Emissi\u00f3 televisi\u00f3 ; Actualitat ; Not\u00edcia"
+                ]
+            },
+            "edmDatasetName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "edmIsShownAt": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5402452/"
+            ],
+            "edmIsShownBy": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5402452/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F4%2F2%2F1418798174924.jpg&type=VIDEO"
+            ],
+            "edmTimespan": [
+                "#2014",
+                "#2014-12-17"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2014"
+                },
+                {
+                    "def": "2014-12-17"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "2014",
+                    "2014-12-17"
+                ]
+            },
+            "europeanaCollectionName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5402452?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/2051922/data_euscreenXL_5402452",
+            "index": 0,
+            "language": [
+                "ca"
+            ],
+            "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5402452.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004516145",
+                "http://data.europeana.eu/organization/1482250000004671121"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "EUscreen"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 93.65193,
+            "timestamp": 1688648172867,
+            "timestamp_created": "2015-12-11T08:36:49.289Z",
+            "timestamp_created_epoch": 1449823009289,
+            "timestamp_update": "2021-12-03T08:36:11.538Z",
+            "timestamp_update_epoch": 1638520571538,
+            "title": [
+                "The latest instalment of\\ \u2018The Hobbit\\\u2019 opens today",
+                "Not\u00edcies 3/24"
+            ],
+            "type": "VIDEO",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2014"
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "TV3 Catalan Television"
+            ],
+            "dcDescription": [
+                "Josep Maria Bunyol spoke to us today of the film releases this Christmas:\\ \u2018The Hobbit\\\u2019\\ \u2018Big Hero 6\\\u2019\\ \u2018Dios m\u00edo, \u00bfbut what tea hemos hecho?\\\u2019 and\\ \u2018Big eyes, frio in July.\u2019 The premiere of the TV3 week is\\ \u2018Contagi\\\u2019 and the Phenomena cinema hall opens."
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Josep Maria Bunyol spoke to us today of the film releases this Christmas:\\ \u2018The Hobbit\\\u2019\\ \u2018Big Hero 6\\\u2019\\ \u2018Dios m\u00edo, \u00bfbut what tea hemos hecho?\\\u2019 and\\ \u2018Big eyes, frio in July.\u2019 The premiere of the TV3 week is\\ \u2018Contagi\\\u2019 and the Phenomena cinema hall opens."
+                ]
+            },
+            "dcLanguage": [
+                "Catalan;\u00a0Valencian"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "Catalan;\u00a0Valencian"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Els matins"
+                ],
+                "en": [
+                    "The mornings: A few involuntary heroes arrive at the Christmas billboard"
+                ]
+            },
+            "dcTypeLangAware": {
+                "def": [
+                    "V\u00eddeo ; Emissi\u00f3 televisi\u00f3 ; Actualitat ; Magazin"
+                ]
+            },
+            "edmDatasetName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "edmIsShownAt": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5406733/"
+            ],
+            "edmIsShownBy": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5406733/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F9%2F1%2F1418997366519.jpg&type=VIDEO"
+            ],
+            "edmTimespan": [
+                "#2014",
+                "#2014-12-19"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2014"
+                },
+                {
+                    "def": "2014-12-19"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "2014",
+                    "2014-12-19"
+                ]
+            },
+            "europeanaCollectionName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5406733?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/2051922/data_euscreenXL_5406733",
+            "index": 0,
+            "language": [
+                "ca"
+            ],
+            "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5406733.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004516145",
+                "http://data.europeana.eu/organization/1482250000004671121"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "EUscreen"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 35.717186,
+            "timestamp": 1688648174109,
+            "timestamp_created": "2015-12-11T08:36:53.235Z",
+            "timestamp_created_epoch": 1449823013235,
+            "timestamp_update": "2021-12-03T08:36:11.538Z",
+            "timestamp_update_epoch": 1638520571538,
+            "title": [
+                "Els matins",
+                "The mornings: A few involuntary heroes arrive at the Christmas billboard"
+            ],
+            "type": "VIDEO",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2014"
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "TV3 Catalan Television"
+            ],
+            "dcDescription": [
+                "Wednesday the 17th of December news that we have opened with the following news: the 2015 budget debate begins; the Pujol family, in court on the 27th of January; protests about arrests for \u2018violent anarchism\u2019; mourning and outrage in Pakistan; terror of the Russian economy, and the third in the trilogy of the \u2018The Hobbit\\\u2019 trilogy opens. At the end of the news we talked about sports, we made the weather forecast and we explained the state of traffic."
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Wednesday the 17th of December news that we have opened with the following news: the 2015 budget debate begins; the Pujol family, in court on the 27th of January; protests about arrests for \u2018violent anarchism\u2019; mourning and outrage in Pakistan; terror of the Russian economy, and the third in the trilogy of the \u2018The Hobbit\\\u2019 trilogy opens. At the end of the news we talked about sports, we made the weather forecast and we explained the state of traffic."
+                ]
+            },
+            "dcLanguage": [
+                "Catalan;\u00a0Valencian"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "Catalan;\u00a0Valencian"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Els matins"
+                ],
+                "en": [
+                    "The mornings: The news of the day (17/12/14)"
+                ]
+            },
+            "dcTypeLangAware": {
+                "def": [
+                    "V\u00eddeo ; Emissi\u00f3 televisi\u00f3 ; Actualitat ; Magazin"
+                ]
+            },
+            "dctermsSpatial": [
+                "http://data.europeana.eu/place/216289",
+                "http://www.wikidata.org/entity/Q843"
+            ],
+            "edmDatasetName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "edmIsShownAt": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5402631/"
+            ],
+            "edmIsShownBy": [
+                "http://www.ccma.cat/tv3/alacarta/programa/titol/video/5402631/"
+            ],
+            "edmPlace": [
+                "http://www.wikidata.org/entity/Q843",
+                "http://data.europeana.eu/place/216289"
+            ],
+            "edmPlaceAltLabel": [
+                {
+                    "def": "\u0418\u0441\u043b\u0430\u043c\u0438\u0301 \u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0438\u0301\u0439\u0435 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u0301\u043d"
+                },
+                {
+                    "def": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "\u0418\u0441\u043b\u0430\u043c\u0438\u0301 \u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0438\u0301\u0439\u0435 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u0301\u043d"
+                },
+                {
+                    "def": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "Islamiska republiken Pakistan"
+                },
+                {
+                    "def": "Islamiska republiken Pakistan"
+                },
+                {
+                    "def": "Pakistanin islamilainen tasavalta"
+                },
+                {
+                    "def": "Pakistanin islamilainen tasavalta"
+                },
+                {
+                    "def": "\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                },
+                {
+                    "def": "\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                },
+                {
+                    "def": "Repubblika I\u017clamika tal-Pakistan"
+                },
+                {
+                    "def": "Repubblika I\u017clamika tal-Pakistan"
+                },
+                {
+                    "def": "Islamic Republic of Pakistan"
+                },
+                {
+                    "def": "Republic of Pakistan"
+                },
+                {
+                    "def": "pk"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "Islamic Republic of Pakistan"
+                },
+                {
+                    "def": "Republic of Pakistan"
+                },
+                {
+                    "def": "Pk"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "Islamska Republika Pakistan"
+                },
+                {
+                    "def": "Islamska Republika Pakistan"
+                },
+                {
+                    "def": "Pakist\u0101nas Isl\u0101ma Republika"
+                },
+                {
+                    "def": "Pakist\u0101nas Isl\u0101ma Republika"
+                },
+                {
+                    "def": "Repubblica islamica del Pakistan"
+                },
+                {
+                    "def": "Repubblica islamica del Pakistan"
+                },
+                {
+                    "def": "R\u00e9publique islamique du Pakistan"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "PK"
+                },
+                {
+                    "def": "pk"
+                },
+                {
+                    "def": "la R\u00e9publique islamique du Pakistan"
+                },
+                {
+                    "def": "R\u00e9publique islamique du Pakistan"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "PK"
+                },
+                {
+                    "def": "Pk"
+                },
+                {
+                    "def": "La R\u00e9publique islamique du Pakistan"
+                },
+                {
+                    "def": "Pakiszt\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g"
+                },
+                {
+                    "def": "Pakiszt\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g"
+                },
+                {
+                    "def": "Rep\u00fablica Isl\u00e1mica del Pakist\u00e1n"
+                },
+                {
+                    "def": "Republica Islamica del Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Rep\u00fablica Isl\u00e1mica del Pakist\u00e1n"
+                },
+                {
+                    "def": "Republica Islamica del Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistani Islamivabariik"
+                },
+                {
+                    "def": "Pakistani Islamivabariik"
+                },
+                {
+                    "def": "Isl\u00e1msk\u00e1 republika P\u00e1kist\u00e1n"
+                },
+                {
+                    "def": "Isl\u00e1msk\u00e1 republika P\u00e1kist\u00e1n"
+                },
+                {
+                    "def": "Pakistango Islamiar Errepublika"
+                },
+                {
+                    "def": "Pakistango Islamiar Errepublika"
+                },
+                {
+                    "def": "Pakistansk\u00e1 islamsk\u00e1 republika"
+                },
+                {
+                    "def": "Pakistansk\u00e1 islamsk\u00e1 republika"
+                },
+                {
+                    "def": "PK"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "PK"
+                },
+                {
+                    "def": "PAK"
+                },
+                {
+                    "def": "Rep\u00fablica Isl\u00e0mica del Pakistan"
+                },
+                {
+                    "def": "Rep\u00fablica Isl\u00e0mica del Pakistan"
+                }
+            ],
+            "edmPlaceAltLabelLangAware": {
+                "ru": [
+                    "\u0418\u0441\u043b\u0430\u043c\u0438\u0301 \u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0438\u0301\u0439\u0435 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u0301\u043d",
+                    "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+                    "\u0418\u0441\u043b\u0430\u043c\u0438\u0301 \u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0438\u0301\u0439\u0435 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u0301\u043d",
+                    "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                ],
+                "sv": [
+                    "Islamiska republiken Pakistan",
+                    "Islamiska republiken Pakistan"
+                ],
+                "fi": [
+                    "Pakistanin islamilainen tasavalta",
+                    "Pakistanin islamilainen tasavalta"
+                ],
+                "el": [
+                    "\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd",
+                    "\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                ],
+                "mt": [
+                    "Repubblika I\u017clamika tal-Pakistan",
+                    "Repubblika I\u017clamika tal-Pakistan"
+                ],
+                "en": [
+                    "Islamic Republic of Pakistan",
+                    "Republic of Pakistan",
+                    "pk",
+                    "PAK",
+                    "Islamic Republic of Pakistan",
+                    "Republic of Pakistan",
+                    "Pk",
+                    "PAK"
+                ],
+                "hr": [
+                    "Islamska Republika Pakistan",
+                    "Islamska Republika Pakistan"
+                ],
+                "lv": [
+                    "Pakist\u0101nas Isl\u0101ma Republika",
+                    "Pakist\u0101nas Isl\u0101ma Republika"
+                ],
+                "it": [
+                    "Repubblica islamica del Pakistan",
+                    "Repubblica islamica del Pakistan"
+                ],
+                "fr": [
+                    "R\u00e9publique islamique du Pakistan",
+                    "PAK",
+                    "PK",
+                    "pk",
+                    "la R\u00e9publique islamique du Pakistan",
+                    "R\u00e9publique islamique du Pakistan",
+                    "PAK",
+                    "PK",
+                    "Pk",
+                    "La R\u00e9publique islamique du Pakistan"
+                ],
+                "hu": [
+                    "Pakiszt\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g",
+                    "Pakiszt\u00e1ni Iszl\u00e1m K\u00f6zt\u00e1rsas\u00e1g"
+                ],
+                "es": [
+                    "Rep\u00fablica Isl\u00e1mica del Pakist\u00e1n",
+                    "Republica Islamica del Pakistan",
+                    "Pakistan",
+                    "Rep\u00fablica Isl\u00e1mica del Pakist\u00e1n",
+                    "Republica Islamica del Pakistan",
+                    "Pakistan"
+                ],
+                "et": [
+                    "Pakistani Islamivabariik",
+                    "Pakistani Islamivabariik"
+                ],
+                "cs": [
+                    "Isl\u00e1msk\u00e1 republika P\u00e1kist\u00e1n",
+                    "Isl\u00e1msk\u00e1 republika P\u00e1kist\u00e1n"
+                ],
+                "eu": [
+                    "Pakistango Islamiar Errepublika",
+                    "Pakistango Islamiar Errepublika"
+                ],
+                "sk": [
+                    "Pakistansk\u00e1 islamsk\u00e1 republika",
+                    "Pakistansk\u00e1 islamsk\u00e1 republika"
+                ],
+                "nl": [
+                    "PK",
+                    "PAK",
+                    "PK",
+                    "PAK"
+                ],
+                "ca": [
+                    "Rep\u00fablica Isl\u00e0mica del Pakistan",
+                    "Rep\u00fablica Isl\u00e0mica del Pakistan"
+                ]
+            },
+            "edmPlaceLabel": [
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Paquist\u00e3o"
+                },
+                {
+                    "def": "Paquist\u00e3o"
+                },
+                {
+                    "def": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                },
+                {
+                    "def": "Pakistanas"
+                },
+                {
+                    "def": "Pakistanas"
+                },
+                {
+                    "def": "Pakist\u0101na"
+                },
+                {
+                    "def": "Pakist\u0101na"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakiszt\u00e1n"
+                },
+                {
+                    "def": "Pakiszt\u00e1n"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "An Phacast\u00e1in"
+                },
+                {
+                    "def": "An Phacast\u00e1in"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "\u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                },
+                {
+                    "def": "\u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakist\u00e1n"
+                },
+                {
+                    "def": "Pakist\u00e1n"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "P\u00e1kist\u00e1n"
+                },
+                {
+                    "def": "P\u00e1kist\u00e1n"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                },
+                {
+                    "def": "Pakistan"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "de": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "ru": [
+                    "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+                    "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                ],
+                "fi": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "pt": [
+                    "Paquist\u00e3o",
+                    "Paquist\u00e3o"
+                ],
+                "bg": [
+                    "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+                    "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+                ],
+                "lt": [
+                    "Pakistanas",
+                    "Pakistanas"
+                ],
+                "lv": [
+                    "Pakist\u0101na",
+                    "Pakist\u0101na"
+                ],
+                "hr": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "fr": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "hu": [
+                    "Pakiszt\u00e1n",
+                    "Pakiszt\u00e1n"
+                ],
+                "sk": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "sl": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "ga": [
+                    "An Phacast\u00e1in",
+                    "An Phacast\u00e1in"
+                ],
+                "ca": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "sv": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "el": [
+                    "\u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd",
+                    "\u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd"
+                ],
+                "mt": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "en": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "it": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "es": [
+                    "Pakist\u00e1n",
+                    "Pakist\u00e1n"
+                ],
+                "et": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "eu": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "cs": [
+                    "P\u00e1kist\u00e1n",
+                    "P\u00e1kist\u00e1n"
+                ],
+                "pl": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "ro": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "da": [
+                    "Pakistan",
+                    "Pakistan"
+                ],
+                "nl": [
+                    "Pakistan",
+                    "Pakistan"
+                ]
+            },
+            "edmPlaceLatitude": [
+                "30.0",
+                "30.0"
+            ],
+            "edmPlaceLongitude": [
+                "71.0",
+                "71.0"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fstatics.ccma.cat%2Fmultimedia%2Fjpg%2F2%2F8%2F1418806152982.jpg&type=VIDEO"
+            ],
+            "edmTimespan": [
+                "#2014",
+                "#2014-12-17"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2014"
+                },
+                {
+                    "def": "2014-12-17"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "2014",
+                    "2014-12-17"
+                ]
+            },
+            "europeanaCollectionName": [
+                "2051922_TV3_Television_of_Catalonia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/2051922/data_euscreenXL_5402631?utm_source=api&utm_medium=api&utm_campaign=emensupledg",
+            "id": "/2051922/data_euscreenXL_5402631",
+            "index": 0,
+            "language": [
+                "ca"
+            ],
+            "link": "https://api.europeana.eu/record/2051922/data_euscreenXL_5402631.json?wskey=emensupledg",
+            "organizations": [
+                "http://data.europeana.eu/organization/1482250000004516145",
+                "http://data.europeana.eu/organization/1482250000004671121"
+            ],
+            "previewNoDistribute": false,
+            "provider": [
+                "EUscreen"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 32.837227,
+            "timestamp": 1688648172468,
+            "timestamp_created": "2015-12-11T08:36:49.296Z",
+            "timestamp_created_epoch": 1449823009296,
+            "timestamp_update": "2021-12-03T08:36:11.538Z",
+            "timestamp_update_epoch": 1638520571538,
+            "title": [
+                "The mornings: The news of the day (17/12/14)",
+                "Els matins"
+            ],
+            "type": "VIDEO",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2014"
+            ]
+        }
+    ]
+}
